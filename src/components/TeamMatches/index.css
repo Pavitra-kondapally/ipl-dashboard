@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.banner-image {
+  height: 30%;
+  width: 70%;
+  border: 5%;
+}
+.latest-match-title {
+  color: #ffffff;
+}

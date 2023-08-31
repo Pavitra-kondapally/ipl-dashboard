@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.recent-match-card {
+  height: 30%;
+  width: 20%;
+  background-color: #1e293b;
+  padding: 10px;
+}
+.team-logo-img {
+  height: 10%;
+  width: 10%;
+}
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.won-result {
+  color: #18ed66;
+}
+.lost-result {
+  color: #e31a1a;
+}

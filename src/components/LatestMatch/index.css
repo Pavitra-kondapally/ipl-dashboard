@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.latest-match-card {
+  height: 80px;
+  width: 70%;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-family: 'Bree Serif';
+}
+.competing-team-img {
+  height: 10%;
+  width: 20%;
+}
+.match-details-title {
+  color: #ffffff;
+}
